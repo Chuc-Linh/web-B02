@@ -1,5 +1,5 @@
 
-USE test;
+USE b02_nhahodau;
 SET NAMES 'utf8mb4';
 
 -- 1. Bảng loai
